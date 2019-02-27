@@ -1,2 +1,16 @@
 .idea
 test.py
+*.pyc
+将删除 mafengwo/mafengwo/__init__.pyc
+将删除 mafengwo/mafengwo/settings.pyc
+将删除 mafengwo/mafengwo/spiders/__init__.pyc
+将删除 tutoria/tutoria/__init__.pyc
+将删除 tutoria/tutoria/__pycache__/
+将删除 tutoria/tutoria/items.pyc
+将删除 tutoria/tutoria/settings.pyc
+将删除 tutoria/tutoria/spiders/__init__.pyc
+将删除 tutoria/tutoria/spiders/__pycache__/
+将删除 tutoria/tutoria/spiders/dmoz_spider.pyc
+将删除 ziru/mafengwo/__init__.pyc
+将删除 ziru/mafengwo/settings.pyc
+将删除 ziru/mafengwo/spiders/__init__.pyc
