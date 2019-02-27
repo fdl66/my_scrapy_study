@@ -1,4 +1,4 @@
-.idea
+/.idea/
 test.py
 *.pyc
 将删除 mafengwo/mafengwo/__init__.pyc
@@ -14,3 +14,4 @@ test.py
 将删除 ziru/mafengwo/__init__.pyc
 将删除 ziru/mafengwo/settings.pyc
 将删除 ziru/mafengwo/spiders/__init__.pyc
+
